@@ -331,3 +331,4 @@ ASALocalRun/
 /*.qlplugin
 /GitVersion.cs
 /QuickLook.Plugin.Metadata.config
+.vscode/settings.json
